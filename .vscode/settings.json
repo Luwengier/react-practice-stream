@@ -3,5 +3,11 @@
     "googleusercontent",
     "koidqmh",
     "ltefhu"
-  ]
+  ],
+  "emmet.excludeLanguages": [
+    "markdown"
+  ],
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
 }
